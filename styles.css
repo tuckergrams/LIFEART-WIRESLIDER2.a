@@ -40,8 +40,8 @@ body {
 }
 .controlSpeed::-webkit-slider-thumb {
   border: none;
-  height: 155px;
-  width: 155px;
+  height: 55px;
+  width: 55px;
   background: transparent;
   background-image: url("https://tuckergrams.fun/wp-content/uploads/2026/02/dot285.gif");
   appearance: none;
